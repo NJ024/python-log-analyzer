@@ -1,0 +1,6 @@
+2026-02-04 Failed login for user=admin from 192.168.1.10
+2026-02-04 Successful login for user=john from 10.0.0.5
+2026-02-05 Failed login for user=admin from 192.168.1.10
+2026-02-05 Failed login for user=guest from 172.16.0.3
+2026-02-04 Failed login for user=admin from 192.168.1.10
+2026-02-04 Successful login for user=john from 10.0.0.5
